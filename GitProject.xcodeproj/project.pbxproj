@@ -13,6 +13,7 @@
 		CFBF4AE0260BF4690035F9C8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CFBF4ADF260BF4690035F9C8 /* Assets.xcassets */; };
 		CFBF4AE3260BF4690035F9C8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CFBF4AE2260BF4690035F9C8 /* Preview Assets.xcassets */; };
 		CFBF4AE6260BF4690035F9C8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CFBF4AE4260BF4690035F9C8 /* LaunchScreen.storyboard */; };
+		CFBF4AEF260BF8260035F9C8 /* ModalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFBF4AEE260BF8260035F9C8 /* ModalView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CFBF4AE2260BF4690035F9C8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CFBF4AE5260BF4690035F9C8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CFBF4AE7260BF4690035F9C8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CFBF4AEE260BF8260035F9C8 /* ModalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModalView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				CFBF4AE4260BF4690035F9C8 /* LaunchScreen.storyboard */,
 				CFBF4AE7260BF4690035F9C8 /* Info.plist */,
 				CFBF4AE1260BF4690035F9C8 /* Preview Content */,
+				CFBF4AEE260BF8260035F9C8 /* ModalView.swift */,
 			);
 			path = GitProject;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 			files = (
 				CFBF4ADA260BF4670035F9C8 /* AppDelegate.swift in Sources */,
 				CFBF4ADC260BF4670035F9C8 /* SceneDelegate.swift in Sources */,
+				CFBF4AEF260BF8260035F9C8 /* ModalView.swift in Sources */,
 				CFBF4ADE260BF4670035F9C8 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
