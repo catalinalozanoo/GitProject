@@ -61,11 +61,11 @@
 				CFBF4AD9260BF4670035F9C8 /* AppDelegate.swift */,
 				CFBF4ADB260BF4670035F9C8 /* SceneDelegate.swift */,
 				CFBF4ADD260BF4670035F9C8 /* ContentView.swift */,
+				CFBF4AEE260BF8260035F9C8 /* ModalView.swift */,
 				CFBF4ADF260BF4690035F9C8 /* Assets.xcassets */,
 				CFBF4AE4260BF4690035F9C8 /* LaunchScreen.storyboard */,
 				CFBF4AE7260BF4690035F9C8 /* Info.plist */,
 				CFBF4AE1260BF4690035F9C8 /* Preview Content */,
-				CFBF4AEE260BF8260035F9C8 /* ModalView.swift */,
 			);
 			path = GitProject;
 			sourceTree = "<group>";
