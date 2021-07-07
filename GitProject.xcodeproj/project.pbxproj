@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		17DAEBCF2696384600B5B31E /* archivo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17DAEBCE2696384600B5B31E /* archivo.swift */; };
 		CFBF4ADA260BF4670035F9C8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFBF4AD9260BF4670035F9C8 /* AppDelegate.swift */; };
 		CFBF4ADC260BF4670035F9C8 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFBF4ADB260BF4670035F9C8 /* SceneDelegate.swift */; };
 		CFBF4ADE260BF4670035F9C8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFBF4ADD260BF4670035F9C8 /* ContentView.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		17DAEBCE2696384600B5B31E /* archivo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = archivo.swift; sourceTree = "<group>"; };
 		CFBF4AD6260BF4670035F9C8 /* GitProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CFBF4AD9260BF4670035F9C8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CFBF4ADB260BF4670035F9C8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 		CFBF4AD8260BF4670035F9C8 /* GitProject */ = {
 			isa = PBXGroup;
 			children = (
+				17DAEBCE2696384600B5B31E /* archivo.swift */,
 				CFBF4AD9260BF4670035F9C8 /* AppDelegate.swift */,
 				CFBF4ADB260BF4670035F9C8 /* SceneDelegate.swift */,
 				CFBF4ADD260BF4670035F9C8 /* ContentView.swift */,
@@ -150,6 +153,7 @@
 			files = (
 				CFBF4ADA260BF4670035F9C8 /* AppDelegate.swift in Sources */,
 				CFBF4ADC260BF4670035F9C8 /* SceneDelegate.swift in Sources */,
+				17DAEBCF2696384600B5B31E /* archivo.swift in Sources */,
 				CFBF4AEF260BF8260035F9C8 /* ModalView.swift in Sources */,
 				CFBF4ADE260BF4670035F9C8 /* ContentView.swift in Sources */,
 			);
